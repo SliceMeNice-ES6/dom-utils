@@ -51,7 +51,7 @@ can either be a DOM element or selector string. If it is a selector string the f
 	outerWidth: ...,
 	outerHeight: ...,
 	
-	isBorderBox: true/false
+	isBorderBox: true|false|undefined
   }
   ```
 * An object with all values set to zero, if the element is hidden.
