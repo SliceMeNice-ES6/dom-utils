@@ -3,8 +3,8 @@ ECMAScript 6 DOM Utilities
 
 ---
 
-* [getElementSize()](#getelementsize)
-* [getPrefixedPropertyName()](#getprefixedpropertyname)
+* [getElementSize()](#getelementsize) collects box model values (margin, border, padding, width and height) of an element.
+* [getPrefixedPropertyName()](#getprefixedpropertyname) converts a CSS property name into a vendor specific property name if necessary.
 
 ---
 
