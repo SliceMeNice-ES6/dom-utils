@@ -1,7 +1,14 @@
 # domUtils
 ECMAScript 6 DOM Utilities
 
-## getElementSize
+---
+
+* [getElementSize()](#getelementsize)
+* [getPrefixedPropertyName()](#getprefixedpropertyname)
+
+---
+
+### getElementSize
 Collects box model values (margin, border, padding, width and height) of an element.
 
 ###### Example
@@ -50,7 +57,7 @@ can either be a DOM element or selector string. If it is a selector string the f
 * An object with all values set to zero, if the element is hidden.
 * _undefined_ if the element is not a DOM node.
 
-## getPrefixedPropertyName
+### getPrefixedPropertyName
 Converts a CSS property name into a vendor specific property name if necessary.
 
 ###### Example
