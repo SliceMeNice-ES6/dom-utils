@@ -1,6 +1,6 @@
 {
   "name": "@slicemenice/dom-utils",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "ECMAScript 6 DOM Utilities",
   "repository": {
     "type": "git",
@@ -8,7 +8,8 @@
   },
   "keywords": [
     "ES6",
-    "domUtils"
+    "DOM",
+    "Utilities"
   ],
   "author": "Stefan Ullinger",
   "license": "MIT",
