@@ -1,10 +1,10 @@
 {
   "name": "@slicemenice/dom-utils",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "ECMAScript 6 DOM Utilities",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SliceMeNice-ES6/domUtils.git"
+    "url": "https://github.com/SliceMeNice-ES6/dom-utils.git"
   },
   "keywords": [
     "ES6",
@@ -13,7 +13,7 @@
   "author": "Stefan Ullinger",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SliceMeNice-ES6/domUtils/issues"
+    "url": "https://github.com/SliceMeNice-ES6/dom-utils/issues"
   },
-  "homepage": "https://github.com/SliceMeNice-ES6/domUtils"
+  "homepage": "https://github.com/SliceMeNice-ES6/dom-utils"
 }
