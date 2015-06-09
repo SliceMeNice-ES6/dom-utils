@@ -1,7 +1,7 @@
 // Browser Support: IE9+
 // uses getComputedStyle
 
-import getPrefixedPropertyName from './getPrefixedPropertyName.js';
+import getPrefixedPropertyName from './getPrefixedPropertyName';
 
 let boxModelParts = [
 	'paddingTop',
