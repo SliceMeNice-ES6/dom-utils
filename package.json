@@ -1,11 +1,12 @@
 {
   "name": "@slicemenice/dom-utils",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "ECMAScript 6 DOM Utilities",
   "repository": {
     "type": "git",
     "url": "https://github.com/SliceMeNice-ES6/dom-utils.git"
   },
+  "jsnext:main": "index",
   "keywords": [
     "ES6",
     "DOM",

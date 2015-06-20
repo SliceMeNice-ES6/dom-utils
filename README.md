@@ -14,6 +14,8 @@ Collects box model values (margin, border, padding, width and height) of an elem
 ###### Example
 
 ```
+import { getElementSize } from 'event-utils';
+
 let size = getElementSize( element );
 ```
 
@@ -63,6 +65,8 @@ Converts a CSS property name into a vendor specific property name if necessary.
 ###### Example
 
 ```
+import { getPrefixedPropertyName } from 'event-utils';
+
 let boxSizingPropertyName = getPrefixedPropertyName( 'boxSizing' );
 ```
 
